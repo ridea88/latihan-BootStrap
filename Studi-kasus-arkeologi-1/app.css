@@ -50,7 +50,11 @@ body{
     line-height: 2;
 }
 
-.content{
+
+.navbar.scrolled{
+    background-color: #c2ded1;
+}
+/* .content{
     margin-top: 100px;
     margin-bottom: 100px;
-}
+} */
